@@ -1,16 +1,22 @@
-## Hi there 👋
+ABOUT ME
+🎓 Electronics and Communication Engineering Undergraduate
+🔧 Embedded Systems & FPGA Enthusiast
+📍 Interested in MCUs / FPGAs / Digital Design
 
-<!--
-**cylim2003/cylim2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate hardware-oriented engineering student with a strong interest in embedded systems, digital design, and communication systems.
+Mainly focusing on building systems from the ground up — including hardware design, low-level programming, and system integration.
 
-Here are some ideas to get you started:
+📂 Featured Projects
+🔹 FPGA Polar Code Decoder
+Ultra-low resource SC decoder implementation
+Optimized for minimal LUT/FF usage
+Focus on hardware efficiency and architecture design
+🔹 Embedded MQTT Communication System
+Built using ESP32
+Implemented publish/subscribe model
+Integrated networking and real-time data transmission
+⚠️ More projects will be uploaded soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/cylim2003
+Email: limcy9830@gmail.com
